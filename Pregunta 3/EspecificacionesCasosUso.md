@@ -27,6 +27,7 @@
     <td>Post Condición</td>
     <td>El sistema muestra la información de la película.</td>
   </tr>
+</table>
 
 # 2. Ingresar Función
 
