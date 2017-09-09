@@ -29,6 +29,7 @@
   </tr>
 </table>
 
+
 # 2. Ingresar Función
 
 <table>
@@ -55,5 +56,65 @@
   <tr>
     <td>Post Condición</td>
     <td>El sistema muestra la información de la película.</td>
+  </tr>
+</table>
+
+
+# 3. Visualizar datos de función elegida
+
+<table>
+  <tr>
+    <td>Caso de Uso</td>
+    <td>Visualizar datos de función elegida</td>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>Cliente</td>
+  </tr>
+  <tr>
+    <td>Precondición</td>
+    <td>Deben haberse logueado en la página. Debe haberse elegido la función deseada</td>
+  </tr>
+  <tr>
+    <td>Flujo Básico</td>
+    <td>El sistema muestra el resumen de la función que contiene número de butacas disponibles, hora de la función, lugar de la función y sala. El cliente elige que butaca desea. El sistema muestra el cambio de butaca. El cliente la click en <b>aceptar</b>.</td>
+  </tr>
+  <tr>
+    <td>Flujo alterno 1</td>
+    <td> El cliente no desea comprar: El sistema muestra el resumen de la función que contiene número de butacas disponibles, hora de la función, lugar de la función y sala. El cliente elige que butaca desea. El sistema muestra el cambio de butaca. El cliente la click en <b>Cancelar</b>.</td>
+  </tr>
+  <tr>
+    <td>Poscondición</td>
+    <td>El cliente confirmó la información elegida.</td>
+  </tr>
+</table>
+
+
+# 4. Elegir Función
+
+<table>
+  <tr>
+    <td>Caso de Uso</td>
+    <td>Elegir función</td>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>Cliente</td>
+  </tr>
+  <tr>
+    <td>Precondición</td>
+    <td>Deben haberse logueado en la página.</td>
+  </tr>
+  <tr>
+    <td>Flujo Básico</td>
+    <td>El cliente elige de la cartelera, la película que desea ver. El sistema muestra los cines disponibles para ver esa película. El usuario elige que cine desea. El sistema muestra las funciones disponibles. El cliente elige que función desea comprar.</td>
+  </tr>
+  <tr>
+    <td>Flujo alterno 1</td>
+    <td>No hay funciones disponibles: El cliente elige de la cartelera, la película que desea ver. El sistema muestra los cines disponibles para ver esa película. El usuario elige que cine desea. El sistema muestra un mensaje <b>No se han encontrado funciones disponibles</b>.</td>
+  </tr>
+  <tr>
+    <td>Poscondición</td>
+    <td>Se ha elegido una función</td>
   </tr>
 </table>
