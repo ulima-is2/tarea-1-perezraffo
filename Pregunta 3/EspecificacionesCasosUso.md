@@ -1,8 +1,9 @@
 # Especificaciones Casos de Uso
 ---
 # 1. Ingresar Película
-| --- | --- |
+
 | Caso de Uso | Ingresar película |
+| --- | --- |
 | Actores | Administrador |
 | Precondición | Usuario ingreso al sistema |
 | Flujo básico | El administrador selecciona _ingresar película nueva_, lo cual se le mostrara un formulario con los datos que tiene que llenar respecto a la pelicula que desea ingresar. Luego de ingresar la información  correspondiente presiona `Guardar`, de esta manera se crea una nueva pelicula asociandose con los cines y funciones respectivos.|
