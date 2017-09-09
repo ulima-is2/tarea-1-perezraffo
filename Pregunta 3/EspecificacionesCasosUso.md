@@ -2,7 +2,6 @@
 
 # 1. Ingresar Película
 
-| | |
 | --- | --- |
 | Caso de Uso | Ingresar película |
 | Actores | Administrador |
