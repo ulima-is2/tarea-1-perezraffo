@@ -111,10 +111,39 @@
   </tr>
   <tr>
     <td>Flujo alterno 1</td>
-    <td>No hay funciones disponibles: El cliente elige de la cartelera, la película que desea ver. El sistema muestra los cines disponibles para ver esa película. El usuario elige que cine desea. El sistema muestra un mensaje <b>No se han encontrado funciones disponibles</b>.</td>
+    <td>No hay funciones disponibles: El cliente elige de la cartelera, la película que desea ver. El sistema muestra los cines disponibles para ver esa película. El usuario elige que cine desea. El sistema muestra un mensaje <i>No se han encontrado funciones disponibles</i>.</td>
   </tr>
   <tr>
     <td>Poscondición</td>
     <td>Se ha elegido una función</td>
+  </tr>
+</table>
+
+# 5. Pagar Entrada
+
+<table>
+  <tr>
+    <td>Caso de Uso</td>
+    <td>Pagar Entrada</td>
+  </tr>
+  <tr>
+    <td>Actores</td>
+    <td>Cliente</td>
+  </tr>
+  <tr>
+    <td>Precondición</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Flujo Básico</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Flujo alterno 1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Poscondición</td>
+    <td></td>
   </tr>
 </table>
