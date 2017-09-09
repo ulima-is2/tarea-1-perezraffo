@@ -1,6 +1,7 @@
 # Especificaciones Casos de Uso
 ---
 # 1. Ingresar Película
+| --- | --- |
 | Caso de Uso | Ingresar película |
 | Actores | Administrador |
 | Precondición | Usuario ingreso al sistema |
