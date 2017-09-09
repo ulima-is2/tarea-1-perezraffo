@@ -2211,7 +2211,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Comprar entrada",
+											"text": "Pagar entrada",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2279,7 +2279,7 @@
 									"containerExtending": false,
 									"left": 264,
 									"top": 540.5,
-									"width": 114.7490234375,
+									"width": 114,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -5200,7 +5200,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Comprar entrada",
+					"name": "Pagar entrada",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
