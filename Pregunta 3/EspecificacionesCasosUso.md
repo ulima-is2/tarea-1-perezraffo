@@ -132,18 +132,18 @@
   </tr>
   <tr>
     <td>Precondición</td>
-    <td></td>
+    <td>Deben haberse logueado en la página. Debe haber elegido y visualizado la función.</td>
   </tr>
   <tr>
     <td>Flujo Básico</td>
-    <td></td>
+    <td>El sistema muestra el nombre de la función junto con los métodos de pago. El cliente elige que método de pago desea. El sistema pide los datos para ese método de pago. El cliente ingresas los datos. El sistema muestra una ventana de confirmación. El cliente selecciona <b>aceptar</b>.</td>
   </tr>
   <tr>
     <td>Flujo alterno 1</td>
-    <td></td>
+    <td>Los datos de pago no son correctos: El sistema muestra el nombre de la función junto con los métodos de pago. El cliente elige que método de pago desea. El sistema pide los datos para ese método de pago. El cliente ingresas los datos. El sistema muestra un mensaje de error <i>datos incorrectos</i>.</td>
   </tr>
   <tr>
     <td>Poscondición</td>
-    <td></td>
+    <td>El cliente ha comprado su entrada.</td>
   </tr>
 </table>
